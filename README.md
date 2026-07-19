@@ -13,12 +13,12 @@ This repository will be used to store my work, exercises, and MCP projects durin
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/sarashrouf/nextflows-academy.git
 ```
 
 2. Open the project folder:
 ```bash
-cd REPOSITORY
+cd nextflows-academy
 ```
 
 3. View the README or start adding project files.
