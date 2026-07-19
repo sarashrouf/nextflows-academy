@@ -25,3 +25,7 @@ cd nextflows-academy
 
 ## Author
 Sara Shrouf
+## Academy
+
+NextFlows Academy Website:
+https://nextflows.ai
